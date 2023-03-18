@@ -7,6 +7,7 @@
 
 .card {
     display: inline-flex;
+    background-color: rgb(159, 210, 255);
 }
 
 /* .list-group{
